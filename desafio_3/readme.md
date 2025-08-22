@@ -32,5 +32,5 @@ E os não funcionais:
 
 A partir dessa avaliação inicial podemos escolher a tecnoologia (linguagens e bibliotecas, além do banco de dados) e desenvolver a arquitetura a ser utilizada no projeto.
 
-Assim dano início à POC ou ao MVP do projeto (a critério do gerente/tech lead).
+Assim dando início à POC ou ao MVP do projeto (a critério do gerente/tech lead).
 ---
